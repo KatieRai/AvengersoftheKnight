@@ -1,0 +1,59 @@
+.background-color{
+    background: linear-gradient(300deg, #252426, #872341, #F05941);
+    background-size: 120% 100%;
+}
+
+.navigation{
+    background-color: #252426;
+    margin-top: 25px;
+    width: 100%;
+}
+
+.navigation img{
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.rosterimage{
+    border-radius: 5%;
+}
+
+.headingtitle{
+    color: #252426;
+}
+
+.description{
+    color: white;
+}
+
+.btn{
+    background-color: #252426;
+    border: hidden;
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+}
+
+.photo-container{
+    width: 100%;
+}
+
+hr{
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.photo{
+    border-radius: 5px;
+}
+
+.footer{
+    background-color: #252426;
+    color: white;
+}
+
+
+
